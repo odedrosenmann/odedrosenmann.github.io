@@ -8,17 +8,30 @@ body {
   margin: 20px auto;
 }
 h1{
-	color: blue;
+	color: darkblue;
+}
+h2{
+	margin: 2pt 0pt 2pt 0pt;
+	font-size: 16pt;
+}
+h3{
+	margin: 2pt 0pt 16pt 0pt;
+	font-size: 12pt;
+}
+h4{
+	margin: 2pt 0pt 16pt 0pt;
+	font-size: 12pt;
+	text-decoration: underline;
 }
 img{
 width: 150px;
 }
 h5{
-	margin: 2pt 2pt 2pt 2pt;
+	margin: 2pt 0pt 2pt 0pt;
 	font-weight: 300;
 }
 h4{
-	margin: 2pt 2pt 2pt 2pt;
+	margin: 2pt 0pt 2pt 0pt;
 	font-weight: 250;
 }
 .header{
