@@ -17,6 +17,10 @@ h5{
 	margin: 2pt 2pt 2pt 2pt;
 	font-weight: 300;
 }
+h4{
+	margin: 2pt 2pt 2pt 2pt;
+	font-weight: 250;
+}
 .header{
 	text-decoration: underline;
 	font-weight: bold;
