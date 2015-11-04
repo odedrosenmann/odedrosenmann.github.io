@@ -20,4 +20,8 @@ h5{
 .header{
 	text-decoration: underline;
 	font-weight: bold;
+	color: purple;
+}
+.company{
+	font-weight: bold;
 }
