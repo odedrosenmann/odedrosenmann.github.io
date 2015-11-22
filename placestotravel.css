@@ -1,0 +1,20 @@
+.thumbnail > img { 
+  height: 150px;
+  width: 350px;
+}
+@import "bourbon";
+
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+  background: #eaeef3;
+  font-family: 'Titillium Web';
+}
+h1{
+	font-family: 'Cuprum', sans-serif;
+	font-size: 46px;
+	color:darkblue;
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+}
