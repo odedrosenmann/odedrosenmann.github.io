@@ -98,7 +98,8 @@ $(document).ready(function() {
             { src: 'img/slider/2.jpg' },
             { src: 'img/slider/3.jpg' },
 			{ src: 'img/slider/4.jpg' },
-            { src: 'img/slider/5.jpg' }
+            { src: 'img/slider/5.jpg' },
+            { src: 'img/slider/6.jpg' }
         ],
     overlay: true
 });
