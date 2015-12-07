@@ -12,7 +12,7 @@ html, body {
     color: #757575;
 }
 img {
-    width: 180px;
+    width: 160px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 200px;
     height: 150px;
     vertical-align: top;
-    margin: 20px 20px 20px 0;
+    margin: 15px 15px 15px 0;
     color: #fff;
     text-align: center;
 }
@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #grid .mix .overlay {
     width: 200px;
-    height: 150px;
+    height: 200px;
     position: absolute;
     opacity: 0;
 	top:0;
